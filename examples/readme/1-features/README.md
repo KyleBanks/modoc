@@ -1,0 +1,3 @@
+- **organize** your projects into smaller, digestable sections
+- nest sections and subsections as deep as you like
+- generate a **table of contents** for your document

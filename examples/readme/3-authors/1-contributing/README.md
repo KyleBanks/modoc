@@ -1,0 +1,3 @@
+If you'd like to contribute to `modoc` then take a look at the [issues list](https://github.com/KyleBanks/modoc/issues). If you have an idea/suggestion/bug/question/etc. then feel free to create an issue to discuss it - you can also submit a pull request but it's probably better to chat before you spend time making big changes. 
+
+Also, feel free to add your name and twitter to the authors list above if you'd like a little recognition for your effort!
